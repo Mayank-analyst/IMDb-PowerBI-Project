@@ -15,7 +15,7 @@ A data analysis project built in **Power BI**, exploring IMDb movie datasets wit
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](https://your-screenshot-link-here)
+![Dashboard Screenshot](https://github.com/Mayank-analyst/IMDb-PowerBI-Project/blob/main/Screenshot%20(121).png)
 
 ---
 
