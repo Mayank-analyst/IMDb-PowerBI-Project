@@ -20,7 +20,7 @@ A data analysis project built in **Power BI**, exploring IMDb movie datasets wit
 ---
 
 ## 🌐 View Dashboard Online  
-(## 🌐 View Dashboard Online  [Click here to view the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Y5Zjc...)
+(## 🌐 View Dashboard Online  [Click here to view the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Y5Zjc5ODEtZWQzYS00OWE2LWI5NGQtNDg0NWFiNGJmZTUwIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 )
 
 
