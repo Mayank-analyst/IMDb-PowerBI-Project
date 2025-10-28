@@ -19,6 +19,11 @@ A data analysis project built in **Power BI**, exploring IMDb movie datasets wit
 
 ---
 
+## 🌐 View Dashboard Online  
+(## 🌐 View Dashboard Online  [Click here to view the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Y5Zjc...)
+)
+
+
 ## 📁 Download Project File
 🎯 [Click here to download the IMDb.pbix file](https://drive.google.com/uc?export=download&id=1N3U7oWddFU_32NhyjzGZB_8gZh7dqnK1)
 
